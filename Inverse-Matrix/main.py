@@ -64,4 +64,3 @@ def inverseMatrix(x):
         print("Cannot find inverse matrix becuase it is not square matrix")
 
 
-inverseMatrix([[1,2,-1], [2, 5, 1],[-1,-2,2]])
